@@ -1,7 +1,7 @@
 {
-  "name": "swaggyP36000 IPA Library",
-  "identifier": "xyz.hieuddo.ipalibrary",
-  "sourceURL": "https://web.archive.org/web/20240828174035/https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "name": "by Omega IPA Repo",
+  "identifier": "omegadev.xyz",
+  "sourceURL": "https://github.com/Omega-Omega-Omega/Omega-Repo/edit/main/README.md",
   "apps": [
     {
       "name": "BHX",

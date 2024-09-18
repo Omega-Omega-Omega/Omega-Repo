@@ -12,7 +12,7 @@
       "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
       "developerName": "Omega",
       "localizedDescription": "Welcome to our repo. \nLast updated: September 18, 2024\n\nStatus Icon Meanings:\n✅: Working\n🌟: Paid Tweak, Cracked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)",
-      "iconURL": "https://img.freepik.com/premium-vector/x-app-logo_1097161-43.jpg"
+      "iconURL": "https://github.com/Omega-Omega-Omega/Omega-Repo/blob/main/omega%20app%20icon%20v2.jpg?raw=true"
     }
   ]
 }

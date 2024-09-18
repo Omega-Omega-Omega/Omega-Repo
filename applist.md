@@ -1,7 +1,7 @@
 {
   "name": "by Omega IPA Repo",
   "identifier": "omegadev.xyz",
-  "sourceURL": "https://github.com/Omega-Omega-Omega/Omega-Repo/edit/main/README.md",
+  "sourceURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/applist.md",
   "apps": [
     {
       "name": "BHX",

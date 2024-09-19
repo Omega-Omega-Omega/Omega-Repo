@@ -56,7 +56,7 @@
     {
       "name": "Spotify", 
       "bundleIdentifier": "com.spotify.client", 
-      "subtitle": "Spotify injected with eevee!",
+      "subtitle": "Spotify injected with Eevee!",
       "versionDate": "2024-09-18",
       "version": "8.9.76",
       "size": 195238232, 
@@ -65,5 +65,17 @@
       "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" 
     },
+    {
+      "name": "TikTok", 
+      "bundleIdentifier": "xyz.omega.tiktok", 
+      "subtitle": "TikTok injected with BHTikTok!",
+      "versionDate": "2024-09-19",
+      "version": "30.3.0",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Injected with BH, a tweak that gives:\nNo Ads, Download Videos, Download Musics, Show/Hide UI button, Copy video decription, Copy video link, Copy Music link, Auto Play Next Video, Show progress bar, Confirm like, Confirm comment like, Confirm comment dislike, Confirm follow, Save profile image, Copy profile information, Extend bio, Extend comment, Always open in Safari, Changing region, Fake verify blue mark, Fake Follower count, Fake Following count, Padlock\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp" 
+    }
   ]
 }

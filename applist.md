@@ -74,8 +74,20 @@
       "size": 195238232, 
       "downloadURL": "https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "Injected with BH, a tweak that gives:\nNo Ads, Download Videos, Download Musics, Show/Hide UI button, Copy video decription, Copy video link, Copy Music link, Auto Play Next Video, Show progress bar, Confirm like, Confirm comment like, Confirm comment dislike, Confirm follow, Save profile image, Copy profile information, Extend bio, Extend comment, Always open in Safari, Changing region, Fake verify blue mark, Fake Follower count, Fake Following count, Padlock\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "Injected with BH, a tweak that gives:\n\nNo Ads, Download Videos, Download Musics, Show/Hide UI button, Copy video decription, Copy video link, Copy Music link, Auto Play Next Video, Show progress bar, Confirm like, Confirm comment like, Confirm comment dislike, Confirm follow, Save profile image, Copy profile information, Extend bio, Extend comment, Always open in Safari, Changing region, Fake verify blue mark, Fake Follower count, Fake Following count, Padlock\n\nNote: Old tweak, some features may not work.\n\nStatus: ✅🌟", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp" 
+    },
+    {
+      "name": "Instagram", 
+      "bundleIdentifier": "com.burbn.instagram", 
+      "subtitle": "Instagram injected with Rocket Cracked!",
+      "versionDate": "2024-09-19",
+      "version": "349.0.8",
+      "size": 195238232, 
+      "downloadURL": "place.holder", 
+      "developerName": "Omega", 
+      "localizedDescription": "Another paid Instagram tweak, cracked to be free. I use and prefer ReGram, which is also on my repo.\n\nStatus: ✅🌟", 
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     }
   ]
 }

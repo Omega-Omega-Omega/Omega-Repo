@@ -50,6 +50,6 @@
       "developerName": "Omega", 
       "localizedDescription": "Injected with ReGram Cracked 1.0b11 and SCinsta 0.5.1\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
-    },
+    }
   ]
 }

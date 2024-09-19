@@ -13,7 +13,7 @@
       "developerName": "Omega",
       "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Paid Tweak, Cracked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
-    },
+  },
   {
     "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",

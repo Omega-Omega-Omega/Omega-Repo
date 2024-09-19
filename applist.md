@@ -11,7 +11,7 @@
       "size": 142586675,
       "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
       "developerName": "Omega",
-      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Paid Tweak, Cracked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
+      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
   {
@@ -22,10 +22,24 @@
       "version": "19.34.2",
       "versionDate": "2024-09-18",
       "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
-      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\n Status:✅",
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "category": "social",
       "size": 103674391,
+    }
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "developerName": "Dezokr",
+      "subtitle": "The All-In-One Movies app for iOS",
+      "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL BE A VIDEO CONVERTER, JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nHD Flix is an app for free Movies and Shows. It has a modern UI and no ads.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://i.imgur.com/3tQFB9N.png",
+      "category": "Entertainment",
+          "version": "5.0",
+          "date": "2024-05-11",
+          "localizedDescription": "• Added HD Flix v5.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
+          "size": 2940000
     }
   ]
 }

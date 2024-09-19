@@ -44,12 +44,24 @@
     {
       "name": "Instagram", 
       "bundleIdentifier": "com.burbn.instagram", 
+      "versionDate": "2024-09-18",
       "version": "349.0.8",
       "size": 195238232, 
       "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-09-2024/Instagram_349.0.8_ReGram_1.0b11_SCinsta_0.5.1_%40thisismanpreets_apptesters.org.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Injected with ReGram Cracked 1.0b11 and SCinsta 0.5.1\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
-    }
+    },
+    {
+      "name": "Spotify", 
+      "bundleIdentifier": "com.spotify.client", 
+      "versionDate": "2024-09-18",
+      "version": "8.9.76",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
+    },
   ]
 }

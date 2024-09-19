@@ -15,14 +15,14 @@
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
   {
-    "name": "YouTube",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Omega",
       "subtitle": "YTLite with more features!",
       "version": "19.34.2",
       "versionDate": "2024-09-18",
       "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
-      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\n Status:✅",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "category": "social",
       "size": 103674391,

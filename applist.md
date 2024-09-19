@@ -30,14 +30,14 @@
     {
       "name": "HD Flix",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
-      "developerName": "Dezokr",
+      "versionDate": "2024-09-18",
+      "developerName": "Omega",
       "subtitle": "The All-In-One Movies app for iOS",
       "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL BE A VIDEO CONVERTER, JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nHD Flix is an app for free Movies and Shows. It has a modern UI and no ads.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://i.imgur.com/3tQFB9N.png",
       "category": "Entertainment",
       "version": "5.0",
       "date": "2024-05-11",
-      "localizedDescription": "• Added HD Flix v5.0",
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
       "size": 2940000
     },

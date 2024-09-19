@@ -45,6 +45,7 @@
       "name": "Instagram", 
       "bundleIdentifier": "com.burbn.instagram", 
       "versionDate": "2024-09-18",
+      "subtitle": "Instagram with Regram and SCinsta!",
       "version": "349.0.8",
       "size": 195238232, 
       "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-09-2024/Instagram_349.0.8_ReGram_1.0b11_SCinsta_0.5.1_%40thisismanpreets_apptesters.org.ipa", 
@@ -55,6 +56,7 @@
     {
       "name": "Spotify", 
       "bundleIdentifier": "com.spotify.client", 
+      "subtitle": "Spotify injected with eevee!",
       "versionDate": "2024-09-18",
       "version": "8.9.76",
       "size": 195238232, 

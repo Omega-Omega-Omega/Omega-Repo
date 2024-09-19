@@ -35,11 +35,21 @@
       "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL BE A VIDEO CONVERTER, JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nHD Flix is an app for free Movies and Shows. It has a modern UI and no ads.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://i.imgur.com/3tQFB9N.png",
       "category": "Entertainment",
-          "version": "5.0",
-          "date": "2024-05-11",
-          "localizedDescription": "• Added HD Flix v5.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
-          "size": 2940000
-    }
+      "version": "5.0",
+      "date": "2024-05-11",
+      "localizedDescription": "• Added HD Flix v5.0",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
+      "size": 2940000
+    },
+    {
+      "name": "Instagram", 
+      "bundleIdentifier": "com.burbn.instagram", 
+      "version": "349.0.8",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-09-2024/Instagram_349.0.8_ReGram_1.0b11_SCinsta_0.5.1_%40thisismanpreets_apptesters.org.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Injected with ReGram Cracked 1.0b11 and SCinsta 0.5.1\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
+    },
   ]
 }

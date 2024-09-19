@@ -26,7 +26,7 @@
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "category": "social",
       "size": 103674391,
-    }
+    },
     {
       "name": "HD Flix",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",

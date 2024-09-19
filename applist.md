@@ -61,7 +61,7 @@
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" 
     },
   ]
 }

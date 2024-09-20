@@ -86,7 +86,7 @@
       "size": 195238232, 
       "downloadURL": "place.holder", 
       "developerName": "Omega", 
-      "localizedDescription": "Another paid Instagram tweak, cracked to be free. I use and prefer ReGram, which is also on my repo.\n\nStatus: ✅🌟", 
+      "localizedDescription": "Instagram Rocket: Another paid Instagram tweak, cracked to be free. I use and prefer ReGram, which is also on my repo.\n\nStatus: ✅🌟", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     },
     {
@@ -110,8 +110,20 @@
       "size": 195238232, 
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.10-1/iTorrent.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0042.png" 
+    },
+    {
+      "name": "Null's Brawl", 
+      "bundleIdentifier": "xyz.omega.nullsbrawl", 
+      "subtitle": "A private brawl stars server with all items unlocked!",
+      "versionDate": "2024-09-20",
+      "version": "57.325",
+      "size": 195238232, 
+      "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png" 
     }
   ]
 }

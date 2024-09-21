@@ -7,7 +7,7 @@
       "name": "Welcome to Omega's IPA Repo!",
       "bundleIdentifier": "xyz.omegadev.start",
       "version": "16",
-      "versionDate": "2024-09-18",
+      "versionDate": "2026-09-18",
       "size": 142586675,
       "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
       "developerName": "Omega",
@@ -148,7 +148,7 @@
       "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Picsart_25.5.1_Cracked.png",
       "size": 103809024,
-      "subtitle:" "Picsart with premium features unlocked!"
+      "subtitle": "Picsart with premium features unlocked!"
     },
     {
       "name": "CapCut",
@@ -160,7 +160,7 @@
       "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/CapCut_12.0_Cracked.png",
       "size": 136314880,
-      "subtitle:" "CapCut with MOST premium features unlocked!"
+      "subtitle": "CapCut with MOST premium features unlocked!"
     },
   ]
 }

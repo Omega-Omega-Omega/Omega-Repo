@@ -173,6 +173,6 @@
       "iconURL": "https://enmity.unbound.rip/assets/icon.webp",
       "size": 136314880,
       "subtitle": "A tweak for Discord allowing plugins!"
-    },
+    }
   ]
 }

@@ -124,6 +124,43 @@
       "developerName": "Omega", 
       "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png" 
-    }
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "xyz.omega.duolingo",
+      "developerName": "Omega",
+      "version": "7.37.1",
+      "versionDate": "2024-09-13",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DuolingoMax_7.37.1.ipa",
+      "localizedDescription": "Duolingo Max unlocked!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
+      "tintColor": "FFC300",
+      "size": 111149056,
+      "subtitle": "Duolingo with Max unlocked!"
+    },
+    {
+      "name": "Picsart",
+      "bundleIdentifier": "xyz.omega.picsart",
+      "developerName": "Omega",
+      "version": "25.5.1",
+      "versionDate": "2024-09-21",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsart_25.5.1_Cracked.ipa",
+      "localizedDescription": "Picsart with premium features unlocked!\n\nStatus: ✅🌟",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Picsart_25.5.1_Cracked.png",
+      "size": 103809024,
+      "subtitle:" "Picsart with premium features unlocked!"
+    },
+    {
+      "name": "CapCut",
+      "bundleIdentifier": "xyz.omega.capcut",
+      "developerName": "Omega",
+      "version": "12.0",
+      "versionDate": "2024-09-21",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CapCut_12.0_Cracked.ipa",
+      "localizedDescription": "CapCut with MOST premium features unlocked!\n\nStatus: ✅🌟",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CapCut_12.0_Cracked.png",
+      "size": 136314880,
+      "subtitle:" "CapCut with MOST premium features unlocked!"
+    },
   ]
 }

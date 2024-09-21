@@ -166,7 +166,7 @@
       "name": "Discord Enemity",
       "bundleIdentifier": "xyz.omega.enemity",
       "developerName": "Omega",
-      "version": 'Newest",
+      "version": "Newest",
       "versionDate": "2024-09-21",
       "downloadURL": "https://github.com/enmity-mod/tweak/releases/latest/download/Enmity.ipa",
       "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",

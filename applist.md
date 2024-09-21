@@ -162,5 +162,17 @@
       "size": 136314880,
       "subtitle": "CapCut with MOST premium features unlocked!"
     },
+    {
+      "name": "Discord Enemity",
+      "bundleIdentifier": "xyz.omega.enemity",
+      "developerName": "Omega",
+      "version": 'Newest",
+      "versionDate": "2024-09-21",
+      "downloadURL": "https://github.com/enmity-mod/tweak/releases/latest/download/Enmity.ipa",
+      "localizedDescription": "A tweak for Discord allowing plugins. Inferior to Bunny, but Bunny will become outdated as it's development was ended. Link auto-updates to the newest version!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://enmity.unbound.rip/assets/icon.webp",
+      "size": 136314880,
+      "subtitle": "A tweak for Discord allowing plugins!"
+    },
   ]
 }

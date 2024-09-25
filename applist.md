@@ -18,7 +18,7 @@
       "name": "Apollo for Reddit",
       "bundleIdentifier": "xyz.omega.Apollo",
       "developerName": "Omega",
-      "subtitle": "The award-winning Reddit Client",
+      "subtitle": "An alternative (better) Reddit Client!",
       "version": "1.15.11",
       "versionDate": "2024-09-20",
       "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",

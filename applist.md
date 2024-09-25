@@ -82,13 +82,13 @@
     {
       "name": "TikTok", 
       "bundleIdentifier": "xyz.omega.tiktok", 
-      "subtitle": "TikTok injected with BHTikTok!",
-      "versionDate": "2024-09-19",
+      "subtitle": "Updated BH++, working on new versions of TikTok",
+      "versionDate": "2024-09-24",
       "version": "30.3.0",
       "size": 195238232, 
-      "downloadURL": "https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa", 
+      "downloadURL": "https://github.com/raulsaeed/TikTokPlusPlus/releases/download/v.1.1.0/TikTok_36.4.0_BH_v1.1.0.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "Injected with BH, a tweak that gives:\n\nNo Ads, Download Videos, Download Musics, Show/Hide UI button, Copy video decription, Copy video link, Copy Music link, Auto Play Next Video, Show progress bar, Confirm like, Confirm comment like, Confirm comment dislike, Confirm follow, Save profile image, Copy profile information, Extend bio, Extend comment, Always open in Safari, Changing region, Fake verify blue mark, Fake Follower count, Fake Following count, Padlock\n\nNote: Old tweak, some features may not work.\n\nStatus: ✅🌟", 
+      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp" 
     },
     {

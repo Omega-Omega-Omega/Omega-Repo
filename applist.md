@@ -14,6 +14,30 @@
       "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
+{
+  "name": "Apollo for Reddit",
+  "identifier": "com.apollo.source",
+  "headerURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/header/altstore_header.png",
+  "website": "https://balackburn.github.io/Apollo",
+  "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
+  "subtitle": "Apollo for Reddit unofficial Altstore source.",
+  "description": "This is an unofficial Altstore source for Apollo for Reddit tweaked with ImprovedCustomApi by @JeffreyCA.\n\nFor full details, check the GitHub repository:\nhttps://github.com/Balackburn/Apollo",
+  "tintColor": "4453f4",
+  "apps": [
+    {
+      "name": "Apollo for Reddit",
+      "bundleIdentifier": "xyz.omega.Apollo",
+      "developerName": "Omega",
+      "subtitle": "The award-winning Reddit Client",
+      "version": "1.15.11",
+      "versionDate": "2024-09-20",
+      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",
+      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\n\Status: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
+      "tintColor": "4453f4",
+      "category": "social",
+      "size": 108282519,
+  },
   {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",

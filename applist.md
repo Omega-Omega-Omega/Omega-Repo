@@ -14,17 +14,7 @@
       "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
-{
-  "name": "Apollo for Reddit",
-  "identifier": "com.apollo.source",
-  "headerURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/header/altstore_header.png",
-  "website": "https://balackburn.github.io/Apollo",
-  "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
-  "subtitle": "Apollo for Reddit unofficial Altstore source.",
-  "description": "This is an unofficial Altstore source for Apollo for Reddit tweaked with ImprovedCustomApi by @JeffreyCA.\n\nFor full details, check the GitHub repository:\nhttps://github.com/Balackburn/Apollo",
-  "tintColor": "4453f4",
-  "apps": [
-    {
+  {
       "name": "Apollo for Reddit",
       "bundleIdentifier": "xyz.omega.Apollo",
       "developerName": "Omega",

@@ -270,5 +270,18 @@
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
       "subtitle": "Tweaked X, made back into Twitter!"
     },
+    {
+      "name": "Reddit", 
+      "bundleIdentifier": "xyz.omega.redditfilter", 
+      "subtitle": "Reddit with RedditFilter!",
+      "versionDate": "2024-09-26",
+      "version": "1.1.6",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
+      "subtitle": "A tweak for Reddit, allowing you to filter your feed!"
+    },
   ]
 }

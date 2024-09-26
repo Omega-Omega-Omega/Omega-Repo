@@ -145,7 +145,7 @@
       "versionDate": "2024-09-13",
       "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
       "localizedDescription": "Duolingo Max unlocked!\n\nStatus: ✅🌟🔥",
-      "iconURL": "",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
       "tintColor": "FFC300",
       "size": 111149056,
       "subtitle": "Duolingo with Max unlocked!"

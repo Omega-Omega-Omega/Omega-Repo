@@ -207,6 +207,17 @@
             "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
             "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
             "size": 96468992,
-    }
+    },
+    {
+        "name": "PhotoMath",
+        "bundleIdentifier": "xyz.omega.photomath",
+         "developerName": "Omega",
+         "version": "8.35.0",
+         "versionDate": "2024-09-26",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/PhotoMathPlus_8.35.0.ipa",
+        "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
+         "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PhotoMathPlus_8.35.0.png",
+        "size": 14680064, 
+   },
   ]
 }

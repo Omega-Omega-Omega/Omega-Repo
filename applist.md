@@ -185,6 +185,17 @@
       "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
       "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
       "size": 108282519,
+    },
+    {
+       "name": "Carrot",
+        "bundleIdentifier": "xyz.omega.carrot",
+        "developerName": "Omega",
+         "version": "6.1",
+        "versionDate": "2024-09-16",
+         "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/CarrotPremium_6.1.ipa",
+        "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
+         "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CarrotPremium_6.1.png",
+         "size": 104857600,
     }
   ]
 }

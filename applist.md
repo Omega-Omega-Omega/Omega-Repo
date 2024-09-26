@@ -38,7 +38,7 @@
       "category": "Entertainment",
       "version": "5.0",
       "date": "2024-05-11",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
+      "downloadURL": "https://download.starfiles.co/7pqifeza8663",
       "size": 2940000
     },
     {

@@ -260,7 +260,6 @@
     {
       "name": "Twitter", 
       "bundleIdentifier": "xyz.omega.bhtwitter", 
-      "subtitle": "X, made back into Twitter!",
       "versionDate": "2024-09-19",
       "version": "1",
       "size": 195238232, 

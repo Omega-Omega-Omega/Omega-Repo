@@ -196,6 +196,17 @@
         "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
          "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CarrotPremium_6.1.png",
          "size": 104857600,
+    },
+    {
+        "name": "Bunny_Discord",
+        "bundleIdentifier": "xyz.omega.bunny",
+        "developerName": "Omega",
+        "version": "224.0",
+            "versionDate": "2024-04-10",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Bunny_Pyoncord_224.0.ipa",
+            "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
+            "size": 96468992,
     }
   ]
 }

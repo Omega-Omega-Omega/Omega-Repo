@@ -123,7 +123,7 @@
       "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png" 
+      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png",
     },
     {
       "name": "Duolingo",
@@ -136,7 +136,7 @@
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
       "tintColor": "FFC300",
       "size": 111149056,
-      "subtitle": "Duolingo with Max unlocked!"
+      "subtitle": "Duolingo with Max unlocked!",
     },
     {
       "name": "Picsart",

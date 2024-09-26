@@ -207,6 +207,7 @@
             "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
             "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
             "size": 96468992,
+            "subtitle": "The best discord Client, unfortuantely discontinued."
     },
     {
         "name": "PhotoMath",
@@ -218,6 +219,7 @@
         "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
          "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PhotoMathPlus_8.35.0.png",
         "size": 14680064, 
+        "subtitle": "PhotoMath with Plus features unlocked!"
    },
     {
         "name": "StossyCord",
@@ -229,6 +231,7 @@
             "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
             "iconURL": "https://raw.githubusercontent.com/Stossycord/Stossycord/refs/heads/main/Stossycord/Assets.xcassets/AppIcon.appiconset/Stossycord.png",
             "size": 96468992,
+            "subtitle": "Another cool Discord Client!"
     },
     {
         "name": "Minecraft",
@@ -240,6 +243,7 @@
             "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
             "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
             "size": 96468992,
+            "subtitle": "Minecraft ($7.99) for free!"
     },
      {
         "name": "Flappy Bird",
@@ -251,6 +255,7 @@
             "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🌟",
             "iconURL": "https://raw.githubusercontent.com/freehelpdesk/flappybird/main/github/icon-rounded.png",
             "size": 96468992,
+            "subtitle": "A near exact clone of the original Flappy Bird!"
     },
     {
       "name": "Twitter", 
@@ -263,6 +268,7 @@
       "developerName": "Omega", 
       "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
+      "subtitle": "Tweaked X, made back into Twitter!"
     },
   ]
 }

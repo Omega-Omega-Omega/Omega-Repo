@@ -174,7 +174,7 @@
       "size": 136314880,
       "subtitle": "A tweak for Discord allowing plugins!"
     },
-     {
+    {
       "name": "Apollo for Reddit",
       "bundleIdentifier": "xyz.omega.apollo",
       "developerName": "Omega",

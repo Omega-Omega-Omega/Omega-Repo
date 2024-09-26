@@ -143,9 +143,9 @@
       "developerName": "Omega",
       "version": "7.37.1",
       "versionDate": "2024-09-13",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/DuolingoMax_7.37.1.ipa",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
       "localizedDescription": "Duolingo Max unlocked!\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+      "iconURL": "",
       "tintColor": "FFC300",
       "size": 111149056,
       "subtitle": "Duolingo with Max unlocked!"

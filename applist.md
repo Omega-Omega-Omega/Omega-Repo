@@ -15,18 +15,6 @@
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
   {
-      "name": "Apollo for Reddit",
-      "bundleIdentifier": "xyz.omega.Apollo",
-      "developerName": "Omega",
-      "subtitle": "An alternative Reddit Client!",
-      "version": "1.15.11",
-      "versionDate": "2024-09-20",
-      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",
-      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\n\Status: ✅🌟🔥",
-      "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
-      "size": 108282519,
-  },
-  {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Omega",
@@ -185,6 +173,18 @@
       "iconURL": "https://enmity.unbound.rip/assets/icon.webp",
       "size": 136314880,
       "subtitle": "A tweak for Discord allowing plugins!"
+    },
+     {
+      "name": "Apollo for Reddit",
+      "bundleIdentifier": "xyz.omega.apollo",
+      "developerName": "Omega",
+      "subtitle": "An alternative Reddit Client!",
+      "version": "1.15.11",
+      "versionDate": "2024-09-20",
+      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",
+      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
+      "size": 108282519,
     }
   ]
 }

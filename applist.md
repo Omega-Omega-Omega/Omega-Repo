@@ -219,5 +219,16 @@
          "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PhotoMathPlus_8.35.0.png",
         "size": 14680064, 
    },
+    {
+        "name": "StossyCord",
+        "bundleIdentifier": "xyz.omega.stossycord",
+        "developerName": "Omega",
+        "version": "224.0",
+            "versionDate": "2024-09-26",
+            "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+            "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
+            "size": 96468992,
+    },
   ]
 }

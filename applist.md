@@ -204,7 +204,7 @@
       "developerName": "Omega",
       "version": "224.0",
       "versionDate": "2024-04-10",
-      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Bunny_Pyoncord_224.0.ipa",
+      "downloadURL": "https://github.com/pyoncord/BunnyTweak/releases/download/v247.2/Bunny.ipa",
       "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
       "size": 96468992,
@@ -273,7 +273,6 @@
     {
       "name": "Reddit", 
       "bundleIdentifier": "xyz.omega.redditfilter", 
-      "subtitle": "A tweak for Reddit, allowing you to filter your feed!",
       "subtitle": "Reddit with RedditFilter!",
       "versionDate": "2024-09-26",
       "version": "1.1.6",
@@ -282,6 +281,18 @@
       "developerName": "Omega", 
       "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://play-lh.googleusercontent.com/FpCCoNLOt6LRIY_3NM5Rk_LDN-kFNz0yxdFjm-CYM4XavRQfoQlXxOtgC7abfexIDOE" 
+    },
+     {
+      "name": "OldOS", 
+      "bundleIdentifier": "xyz.omega.oldos", 
+      "subtitle": "iOS 4, brought back to life!",
+      "versionDate": "2024-09-26",
+      "version": "1.0.0",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅🌟🔥", 
+      "iconURL": "https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg" 
     },
   ]
 }

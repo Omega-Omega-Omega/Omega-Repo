@@ -44,13 +44,13 @@
     {
       "name": "Instagram", 
       "bundleIdentifier": "com.burbn.instagram", 
-      "versionDate": "2024-09-18",
+      "versionDate": "2024-09-25",
       "subtitle": "Instagram with Regram and SCinsta!",
       "version": "349.0.8",
       "size": 195238232, 
-      "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-09-2024/Instagram_349.0.8_ReGram_1.0b11_SCinsta_0.5.1_%40thisismanpreets_apptesters.org.ipa", 
+      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Regram_1.0-b10_347.2.5.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "Injected with ReGram Cracked 1.0b11 and SCinsta 0.5.1\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "Injected with ReGram Cracked 1.0b10\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     },
     {

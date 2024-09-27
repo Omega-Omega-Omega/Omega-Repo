@@ -354,5 +354,17 @@
       "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
       "iconURL": "https://pojavlauncherteam.github.io/logo.png" 
     },
+    {
+    "name": "AI Chat Smith",
+    "bundleIdentifier": "xyz.omega.aichatsmith",
+    "developerName": "Omega",
+    "version": "7.0.0",
+    "versionDate": "2024-09-26",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/AIChatSmithPremium-7.0.0.ipa",
+    "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
+    "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/AIChatSmithPremium-7.0.0.png",
+    "size": 74448896,    
+    "subtitle": "Access to ChatGPT Premium models!",
+     },
   ]
 }

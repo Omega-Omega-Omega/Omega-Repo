@@ -306,5 +306,18 @@
       "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
       "iconURL": "https://i.imgur.com/xFmkQTz.jpg" 
     },
+     {
+      "name": "Mangayomi", 
+      "bundleIdentifier": "xyz.omega.mangayomi", 
+      "subtitle": "Manga and Anime viewer!",
+      "versionDate": "2024-09-26",
+      "version": "0.3.5",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
+      "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/app_icons/icon-red.png" 
+    },
   ]
 }
+https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa

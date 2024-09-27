@@ -279,7 +279,7 @@
       "size": 195238232, 
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🔥", 
       "iconURL": "https://play-lh.googleusercontent.com/FpCCoNLOt6LRIY_3NM5Rk_LDN-kFNz0yxdFjm-CYM4XavRQfoQlXxOtgC7abfexIDOE" 
     },
      {
@@ -291,8 +291,20 @@
       "size": 195238232, 
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa", 
       "developerName": "Omega", 
-      "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!\n\nStatus: ✅", 
       "iconURL": "https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg" 
+    },
+     {
+      "name": "PPSSPP", 
+      "bundleIdentifier": "xyz.omega.ppspp", 
+      "subtitle": "The best retro game emulator!",
+      "versionDate": "2024-09-26",
+      "version": "1.15.3",
+      "size": 195238232, 
+      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "The best retro game emulator! Gold unlocked.\n\nStatus: ✅🌟", 
+      "iconURL": "https://i.imgur.com/xFmkQTz.jpg" 
     },
   ]
 }

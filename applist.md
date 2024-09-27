@@ -267,7 +267,7 @@
       "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/ipa/X.10.33.FuckElon.@ghl3m0n.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
+      "iconURL": "https://cdn.jim-nielsen.com/ios/512/twitter-2023-07-24.png?rf=1024" 
     },
     {
       "name": "Reddit", 
@@ -280,7 +280,7 @@
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.26.0-1.1.6/RedditFilter_2024.26.0-1.1.6.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
+      "iconURL": "https://play-lh.googleusercontent.com/FpCCoNLOt6LRIY_3NM5Rk_LDN-kFNz0yxdFjm-CYM4XavRQfoQlXxOtgC7abfexIDOE" 
     },
   ]
 }

@@ -272,6 +272,7 @@
     {
       "name": "Reddit", 
       "bundleIdentifier": "xyz.omega.redditfilter", 
+      "subtitle": "A tweak for Reddit, allowing you to filter your feed!",
       "subtitle": "Reddit with RedditFilter!",
       "versionDate": "2024-09-26",
       "version": "1.1.6",
@@ -280,7 +281,6 @@
       "developerName": "Omega", 
       "localizedDescription": "A tweak for Reddit, allowing you to filter your feed and more!\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
-      "subtitle": "A tweak for Reddit, allowing you to filter your feed!",
     },
   ]
 }

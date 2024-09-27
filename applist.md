@@ -260,6 +260,7 @@
     {
       "name": "Twitter", 
       "bundleIdentifier": "xyz.omega.bhtwitter", 
+      "subtitle": "X, turned back into Twitter!",
       "versionDate": "2024-09-19",
       "version": "1",
       "size": 195238232, 
@@ -267,7 +268,6 @@
       "developerName": "Omega", 
       "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
-      "subtitle", "Tweaked X, made back into Twitter!",
     },
     {
       "name": "Reddit", 

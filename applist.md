@@ -333,7 +333,7 @@
     {
       "name": "Fortnite", 
       "bundleIdentifier": "xyz.omega.mangayomi", 
-      "subtitle": "Fall Guys, outside of the EU!",
+      "subtitle": "Fortnite, outside of the EU!",
       "versionDate": "2024-09-26",
       "version": "0.3.5",
       "size": 195238232, 

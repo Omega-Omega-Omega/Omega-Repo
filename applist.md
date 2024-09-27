@@ -320,7 +320,7 @@
     },
     {
       "name": "Fall Guys", 
-      "bundleIdentifier": "xyz.omega.mangayomi", 
+      "bundleIdentifier": "xyz.omega.fallguys", 
       "subtitle": "Fall Guys, outside of the EU!",
       "versionDate": "2024-09-26",
       "version": "0.3.5",
@@ -332,7 +332,7 @@
     },
     {
       "name": "Fortnite", 
-      "bundleIdentifier": "xyz.omega.mangayomi", 
+      "bundleIdentifier": "xyz.omega.fortnite", 
       "subtitle": "Fortnite, outside of the EU!",
       "versionDate": "2024-09-26",
       "version": "0.3.5",
@@ -341,6 +341,18 @@
       "developerName": "Omega", 
       "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅🔥", 
       "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
+    },
+     {
+      "name": "PojavLauncher", 
+      "bundleIdentifier": "xyz.omega.pojav", 
+      "subtitle": "Minecraft Java Edition on iOS!",
+      "versionDate": "2024-09-26",
+      "version": "2.2 DeepSlate",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Play Minecraft Java Edition on iOS! Requires JIT, and for you to have an account with Java.\n\nStatus: ✅", 
+      "iconURL": "https://pojavlauncherteam.github.io/logo.png" 
     },
   ]
 }

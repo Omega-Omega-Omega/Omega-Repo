@@ -196,6 +196,7 @@
       "localizedDescription": "Carrot is a cool weather app. Carrot Premium Ultra unlocked.\n\nStatus: ✅🌟🔥",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/CarrotPremium_6.1.png",
       "size": 104857600,
+      "subtitle": "A cool weather app, premium unlocked!"
     },
     {
       "name": "Bunny_Discord",

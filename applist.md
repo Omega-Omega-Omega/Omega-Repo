@@ -320,4 +320,3 @@
     },
   ]
 }
-https://github.com/kodjodevf/mangayomi/releases/download/v0.3.5/Mangayomi-v0.3.5-ios.ipa

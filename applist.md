@@ -318,5 +318,29 @@
       "localizedDescription": "Mangayomi is free an open source manga reader and anime streaming cross-platform app inspired by Tachiyomi and Aniyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\n\nStatus: ✅🌟", 
       "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/app_icons/icon-red.png" 
     },
+    {
+      "name": "Fall Guys", 
+      "bundleIdentifier": "xyz.omega.mangayomi", 
+      "subtitle": "Fall Guys, outside of the EU!",
+      "versionDate": "2024-09-26",
+      "version": "0.3.5",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
+      "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88" 
+    },
+    {
+      "name": "Fortnite", 
+      "bundleIdentifier": "xyz.omega.mangayomi", 
+      "subtitle": "Fall Guys, outside of the EU!",
+      "versionDate": "2024-09-26",
+      "version": "0.3.5",
+      "size": 195238232, 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fortnite-31.20.1.ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅🔥", 
+      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
+    },
   ]
 }

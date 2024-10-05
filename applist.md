@@ -335,9 +335,9 @@
       "bundleIdentifier": "xyz.omega.fortnite", 
       "subtitle": "Fortnite, outside of the EU!",
       "versionDate": "2024-09-26",
-      "version": "0.3.5",
+      "version": "31.30.1",
       "size": 195238232, 
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fortnite-31.20.1.ipa", 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.2/Fortnite-31.30.1.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅🔥", 
       "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
@@ -366,5 +366,17 @@
     "size": 74448896,    
     "subtitle": "Access to ChatGPT Premium models!",
      },
+     {
+    "name": "Genie",
+    "bundleIdentifier": "co.appnation.geniechat",
+    "developerName": "Omega",
+    "version": "7.1.2",
+    "versionDate": "2024-10-05",
+    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
+    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app. \n\nStatus: ✅🔥🌟",",
+    "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
+    "tintColor": "FFC300",
+    "size": 59768832,
+    },
   ]
 }

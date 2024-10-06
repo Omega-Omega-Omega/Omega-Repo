@@ -374,7 +374,6 @@
       "versionDate": "2024-10-05",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
       "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa"
-      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
       "size": 59768832,
     },
     {

@@ -366,16 +366,16 @@
     "size": 74448896,    
     "subtitle": "Access to ChatGPT Premium models!",
      },
-     {
-    "name": "Genie",
-    "bundleIdentifier": "co.appnation.geniechat",
-    "developerName": "Omega",
-    "version": "7.1.2",
-    "versionDate": "2024-10-05",
-    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
-    "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app. \n\nStatus: ✅🔥🌟",",
-    "size": 59768832,
-    "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
+    {
+      "name": "Genie",
+      "bundleIdentifier": "co.appnation.geniechat",
+      "developerName": "Omega",
+      "version": "7.1.2",
+      "versionDate": "2024-10-05",
+      "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
+      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa"
+      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app. \n\nStatus: ✅🔥🌟",",
+      "size": 59768832,
     },
     {
     "name": "LiveContainer",

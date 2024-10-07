@@ -9,13 +9,13 @@
       "version": "16",
       "versionDate": "2026-09-18",
       "size": 142586675,
-      "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
+      "downloadURL": "omegadev.xyz/placeholder",
       "developerName": "Omega",
-      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
+      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
   {
-      "name": "YouTube",
+      "name": "YouTube Lite++",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Omega",
       "subtitle": "YTLite with more features!",
@@ -42,7 +42,7 @@
       "size": 2940000
     },
     {
-      "name": "Instagram", 
+      "name": "Instagram Regram", 
       "bundleIdentifier": "com.burbn.instagram", 
       "versionDate": "2024-09-25",
       "subtitle": "Instagram with Regram and SCinsta!",
@@ -54,7 +54,7 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     },
     {
-      "name": "Spotify", 
+      "name": "Spotify Eevee", 
       "bundleIdentifier": "com.spotify.client", 
       "subtitle": "Spotify injected with Eevee!",
       "versionDate": "2024-09-18",
@@ -66,7 +66,7 @@
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" 
     },
     {
-      "name": "TikTok", 
+      "name": "TikTok BH++", 
       "bundleIdentifier": "xyz.omega.tiktok", 
       "subtitle": "Updated BH++, working on new versions of TikTok",
       "versionDate": "2024-09-24",
@@ -78,19 +78,19 @@
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp" 
     },
     {
-      "name": "Instagram", 
-      "bundleIdentifier": "com.burbn.instagram", 
-      "subtitle": "Instagram injected with Rocket Cracked!",
+      "name": "Instagram Rocket", 
+      "bundleIdentifier": "xyz.omega.instagramrocket", 
+      "subtitle": "Instagram injected with Rocket (Elite) Cracked!",
       "versionDate": "2024-09-19",
       "version": "349.0.8",
       "size": 195238232, 
-      "downloadURL": "place.holder", 
+      "downloadURL": "https://download.starfiles.co/23qte02enush", 
       "developerName": "Omega", 
       "localizedDescription": "Instagram Rocket: Another paid Instagram tweak, cracked to be free. I use and prefer ReGram, which is also on my repo.\n\nStatus: ✅🌟", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     },
     {
-      "name": "X", 
+      "name": "BH X", 
       "bundleIdentifier": "xyz.omega.bhx", 
       "subtitle": "X with BHTwitter!",
       "versionDate": "2024-09-19",
@@ -126,20 +126,20 @@
       "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png",
     },
     {
-      "name": "Duolingo",
+      "name": "Duolingo Cracked",
       "bundleIdentifier": "xyz.omega.duolingo",
       "developerName": "Omega",
       "version": "7.37.1",
       "versionDate": "2024-09-13",
       "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
-      "localizedDescription": "Duolingo Max unlocked!\n\nStatus: ✅🌟🔥",
+      "localizedDescription": "Duolingo Max unlocked! Must login with Google\n\nStatus: ✅🌟🔥",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
       "tintColor": "FFC300",
       "size": 111149056,
       "subtitle": "Duolingo with Max unlocked!",
     },
     {
-      "name": "Picsart",
+      "name": "Picsart++",
       "bundleIdentifier": "xyz.omega.picsart",
       "developerName": "Omega",
       "version": "25.5.1",
@@ -151,7 +151,7 @@
       "subtitle": "Picsart with premium features unlocked!"
     },
     {
-      "name": "CapCut",
+      "name": "CapCut++",
       "bundleIdentifier": "xyz.omega.capcut",
       "developerName": "Omega",
       "version": "12.0",
@@ -187,7 +187,7 @@
       "size": 108282519,
     },
     {
-      "name": "Carrot",
+      "name": "Carrot++",
       "bundleIdentifier": "xyz.omega.carrot",
       "developerName": "Omega",
       "version": "6.1",
@@ -211,7 +211,7 @@
       "subtitle": "The best discord Client, unfortuantely discontinued."
     },
     {
-      "name": "PhotoMath",
+      "name": "PhotoMath++",
       "bundleIdentifier": "xyz.omega.photomath",
       "developerName": "Omega",
       "version": "8.35.0",
@@ -259,9 +259,9 @@
       "subtitle": "A near exact clone of the original Flappy Bird!",
     },
     {
-      "name": "Twitter", 
+      "name": "BH Twitter", 
       "bundleIdentifier": "xyz.omega.bhtwitter", 
-      "subtitle": "X, turned back into Twitter!",
+      "subtitle": "X, turned back into Twitter! (With Tweaks)",
       "versionDate": "2024-09-19",
       "version": "1",
       "size": 195238232, 
@@ -271,7 +271,7 @@
       "iconURL": "https://cdn.jim-nielsen.com/ios/512/twitter-2023-07-24.png?rf=1024" 
     },
     {
-      "name": "Reddit", 
+      "name": "Reddit RedditFilter", 
       "bundleIdentifier": "xyz.omega.redditfilter", 
       "subtitle": "Reddit with RedditFilter!",
       "versionDate": "2024-09-26",
@@ -295,7 +295,7 @@
       "iconURL": "https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg" 
     },
      {
-      "name": "PPSSPP", 
+      "name": "PPSSPP++", 
       "bundleIdentifier": "xyz.omega.ppspp", 
       "subtitle": "The best retro game emulator!",
       "versionDate": "2024-09-26",
@@ -355,7 +355,7 @@
       "iconURL": "https://pojavlauncherteam.github.io/logo.png" 
     },
     {
-    "name": "AI Chat Smith",
+    "name": "AI Chat Smith++",
     "bundleIdentifier": "xyz.omega.aichatsmith",
     "developerName": "Omega",
     "version": "7.0.0",
@@ -367,7 +367,7 @@
     "subtitle": "Access to ChatGPT Premium models!",
      },
     {
-      "name": "Genie",
+      "name": "Genie++",
       "bundleIdentifier": "co.appnation.geniechat",
       "developerName": "Omega",
       "version": "7.1.2",

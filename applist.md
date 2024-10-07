@@ -401,7 +401,7 @@
     },
     {
     "name": "Provenance Emu",
-    "bundleIdentifier": "xyz.omega.iotasnap",
+    "bundleIdentifier": "xyz.omega.provenance",
     "developerName": "Omega",
     "version": "6.0",
     "versionDate": "2024-10-07",
@@ -412,8 +412,8 @@
     },
     {
     "name": "Feather",
-    "bundleIdentifier": "kh.crysalis.feather",
-    "developerName": "Samara",
+    "bundleIdentifier": "xyz.omega.feather",
+    "developerName": "Omega",
     "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
     "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
     "subtitle": "On-device signing application. In my opinion, not as good as esign, but a good competitor.",
@@ -421,6 +421,18 @@
     "date": "2024-10-07",
     "size": 12375230,
     "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa"
+    },
+    {
+    "name": "Anonycord",
+    "bundleIdentifier": "xyz.omega.anonycord",
+    "developerName": "Omega",
+    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+    "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.",
+    "subtitle": "A video-recorder without preview.",
+    "version": "1.2",
+    "date": "2024-10-07",
+    "size": 12375230,
+    "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
     },
   ]
 }

@@ -426,7 +426,7 @@
     "name": "Anonycord",
     "bundleIdentifier": "xyz.omega.anonycord",
     "developerName": "Omega",
-    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+    "iconURL": "https://raw.githubusercontent.com/c22dev/Anonycord/refs/heads/main/Anonycord/Assets.xcassets/AppIcon.appiconset/2024_08_07_04s_Kleki.png",
     "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.",
     "subtitle": "A video-recorder without preview.",
     "version": "1.2",

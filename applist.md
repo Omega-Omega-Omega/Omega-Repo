@@ -384,7 +384,7 @@
     "version": "2.1.2",
     "versionDate": "2024-10-05",
     "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.2/com.kdt.livecontainer_2.1.2.ipa",
-    "localizedDescription": "ONLY FOR SIDESTORE AND ALTSTORE!\n\nAllows you to bypass Apple's 3 app limit using this sideloading method by running unsigned apps.\n\nStatus: ✅🔥🌟",
+    "localizedDescription": "ONLY FOR SIDESTORE AND ALTSTORE!\n\nAllows you to bypass Apple's 3 app limit using this sideloading method by running unsigned apps.\n\nStatus: ✅🔥",
     "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LiveContainer_2.0.png",
     "size": 59768832,
     },
@@ -398,6 +398,29 @@
     "localizedDescription": "🚨 SNAPCHAT TWEAKS ARE CURRENTLY DETECTED AND WILL GET YOU BANNED/LOCKED 🚨\n\nA paid tweak for Snapchat. Liscenses are $12 for lifetime, or $5 per month. Very much worth it, and a much more trustworthy developer than Wicked.\n\nStatus: ✅🔥🌟",
     "iconURL": "https://pbs.twimg.com/media/GIL9XZPbgAAWIbf.png",
     "size": 59768832,
+    },
+    {
+    "name": "Provenance Emu",
+    "bundleIdentifier": "xyz.omega.iotasnap",
+    "developerName": "Omega",
+    "version": "6.0",
+    "versionDate": "2024-10-07",
+    "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
+    "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
+    "iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
+    "size": 59768832,
+    },
+    {
+    "name": "Feather",
+    "bundleIdentifier": "kh.crysalis.feather",
+    "developerName": "Samara",
+    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
+    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+    "subtitle": "On-device signing application. In my opinion, not as good as esign, but a good competitor.",
+    "version": "1.0.5",
+    "date": "2024-10-07",
+    "size": 12375230,
+    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa"
     },
   ]
 }

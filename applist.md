@@ -43,12 +43,12 @@
     },
     {
       "name": "Instagram Regram", 
-      "bundleIdentifier": "com.burbn.instagram", 
+      "bundleIdentifier": "xyz.omega.instagramregram", 
       "versionDate": "2024-09-25",
-      "subtitle": "Instagram with Regram and SCinsta!",
+      "subtitle": "Instagram with Regram Cracked!",
       "version": "349.0.8",
       "size": 195238232, 
-      "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Regram_1.0-b10_347.2.5.ipa", 
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_351.0.1.ip", 
       "developerName": "Omega", 
       "localizedDescription": "Injected with ReGram Cracked 1.0b10\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
@@ -386,6 +386,17 @@
     "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.2/com.kdt.livecontainer_2.1.2.ipa",
     "localizedDescription": "ONLY FOR SIDESTORE AND ALTSTORE!\n\nAllows you to bypass Apple's 3 app limit using this sideloading method by running unsigned apps.\n\nStatus: ✅🔥🌟",
     "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LiveContainer_2.0.png",
+    "size": 59768832,
+    },
+    {
+    "name": "Snapchat Iota",
+    "bundleIdentifier": "xyz.omega.iotasnap",
+    "developerName": "Omega",
+    "version": "6.0",
+    "versionDate": "2024-10-07",
+    "downloadURL": "https://cdn.discordapp.com/attachments/1203780087883890778/1279457149008744540/iota6.0-13.1.0.ipa?ex=67054a53&is=6703f8d3&hm=5de15a281a716ba6df7a2d15c90d63a309132e57854a87d02e846048f009d6c0&",
+    "localizedDescription": "🚨 SNAPCHAT TWEAKS ARE CURRENTLY DETECTED AND WILL GET YOU BANNED/LOCKED 🚨\n\nA paid tweak for Snapchat. Liscenses are $12 for lifetime, or $5 per month. Very much worth it, and a much more trustworthy developer than Wicked.\n\nStatus: ✅🔥🌟",
+    "iconURL": "https://pbs.twimg.com/media/GIL9XZPbgAAWIbf.png",
     "size": 59768832,
     },
   ]

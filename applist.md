@@ -322,13 +322,13 @@
       "name": "Fall Guys", 
       "bundleIdentifier": "xyz.omega.fallguys", 
       "subtitle": "Fall Guys, outside of the EU!",
-      "versionDate": "2024-10-9",
       "version": "11.3.0",
       "size": 195238232, 
       "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
-      "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88" 
+       "versionDate": "2024-10-9",
+      "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88"
     },
     {
       "name": "Fortnite", 

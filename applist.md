@@ -38,7 +38,7 @@
       "category": "Entertainment",
       "version": "5.0",
       "date": "2024-05-11",
-      "downloadURL": "https://download.starfiles.co/7pqifeza8663",
+      "downloadURL": "https://cdn.discordapp.com/attachments/1293025772918800465/1293991083805642784/HD_Flix_2.0_1728581850.ipa?ex=6709629b&is=6708111b&hm=29b60d51a3fd80ab5f37f7e1db9192a28edf7bb4bfee2acc914b9e8e66a16899&",
       "size": 2940000
     },
     {

@@ -441,7 +441,7 @@
     "developerName": "Omega",
     "iconURL": "https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE",
     "localizedDescription": "Troll your friends with this fake CashApp. Enter anything as the password. Some features may not work.\n\nStatus: ✅🔥🌟",
-    "subtitle": "A video-recorder without preview.",
+    "subtitle": "Prop Cash App with unlimited money.",
     "version": "4.5",
     "date": "2024-10-10",
     "size": 12375230,

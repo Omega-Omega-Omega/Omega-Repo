@@ -322,10 +322,10 @@
       "name": "Fall Guys", 
       "bundleIdentifier": "xyz.omega.fallguys", 
       "subtitle": "Fall Guys, outside of the EU!",
-      "versionDate": "2024-10-8",
-      "version": "11.2.1",
+      "versionDate": "2024-10-9",
+      "version": "11.3.0",
       "size": 195238232, 
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.0/Fall-Guys-11.2.1.ipa", 
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
       "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88" 
@@ -418,7 +418,7 @@
     "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
     "subtitle": "On-device signing application. In my opinion, not as good as esign, but a good competitor.",
     "version": "1.0.5",
-    "date": "2024-10-07",
+    "versionDate": "2024-10-09",
     "size": 12375230,
     "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.5/feather_v1.0.5.ipa"
     },
@@ -432,7 +432,8 @@
     "version": "1.2",
     "date": "2024-10-07",
     "size": 12375230,
-    "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
+    "versionDate": "2024-10-09",
+    "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa",
     },
   ]
 }

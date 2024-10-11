@@ -7,11 +7,11 @@
       "name": "Welcome to Omega's IPA Repo!",
       "bundleIdentifier": "xyz.omegadev.start",
       "version": "16",
-      "versionDate": "2026-09-18",
+      "versionDate": "2026-10-11",
       "size": 142586675,
       "downloadURL": "omegadev.xyz/placeholder",
       "developerName": "Omega",
-      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)",
+      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nWant to request an app that is not on the repo? Want to make sure your using the REAL Omega repo, and not one with potentially malicicious apps? Join our official Discord now: https://discord.gg/jAUfkESDR2",
       "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
   },
   {

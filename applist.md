@@ -7,7 +7,7 @@
       "name": "Welcome to Omega's IPA Repo!",
       "bundleIdentifier": "xyz.omegadev.start",
       "version": "16",
-      "versionDate": "2026-10-11",
+      "versionDate": "2026-10-10",
       "size": 142586675,
       "downloadURL": "omegadev.xyz/placeholder",
       "developerName": "Omega",

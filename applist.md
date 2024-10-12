@@ -448,5 +448,17 @@
     "versionDate": "2024-10-10",
     "downloadURL": "https://cdn.discordapp.com/attachments/1293025772918800465/1294080439274967132/Cash_App_4.5_1728603095.ipa?ex=6709b5d3&is=67086453&hm=ab03b2c83b255dc5e2c07a3801647a517f161202c4e76d0f7a373b2bb0485210&",
     },
+    {
+      "name": "BSD Brawl Stars", 
+      "bundleIdentifier": "xyz.omega.bsdbrawl", 
+      "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-10",
+      "version": "57.325",
+      "size": 195238232, 
+      "downloadURL": "https://bsdbrawl.com/bsd_brawl_v57.325_(26).ipa", 
+      "developerName": "Omega", 
+      "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fc/8a/31fc8a6b-c612-8c8e-9953-cab056ca1ee2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+    },
   ]
 }

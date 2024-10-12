@@ -379,7 +379,7 @@
     },
     {
     "name": "LiveContainer",
-    "bundleIdentifier": "xyz.omega.livecontainer",
+    "bundleIdentifier": "com.kdt.livecontainer",
     "developerName": "Omega",
     "version": "3.0.0",
     "versionDate": "2024-10-07",

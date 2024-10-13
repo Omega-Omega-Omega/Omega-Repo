@@ -25,7 +25,7 @@
       "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "category": "social",
-      "size": 103674391,
+      "size": 103674391
     },
     {
       "name": "HD Flix",
@@ -123,7 +123,7 @@
       "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa", 
       "developerName": "Omega", 
       "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png",
+      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png"
     },
     {
       "name": "Duolingo Cracked",
@@ -136,7 +136,7 @@
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
       "tintColor": "FFC300",
       "size": 111149056,
-      "subtitle": "Duolingo with Max unlocked!",
+      "subtitle": "Duolingo with Max unlocked!"
     },
     {
       "name": "Picsart++",
@@ -184,7 +184,7 @@
       "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.1.5b/Apollo-1.15.11_improvedcustomapi-1.1.5b.ipa",
       "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\nStatus: ✅🌟🔥",
       "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
-      "size": 108282519,
+      "size": 108282519
     },
     {
       "name": "Carrot++",
@@ -220,7 +220,7 @@
       "localizedDescription": "Photomath Plus cracked.\n\nStatus: ✅🌟🔥",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/PhotoMathPlus_8.35.0.png",
       "size": 14680064, 
-      "subtitle": "PhotoMath with Plus features unlocked!",
+      "subtitle": "PhotoMath with Plus features unlocked!"
    },
     {
       "name": "StossyCord",
@@ -232,7 +232,7 @@
       "localizedDescription": "Another cool Discord client!\n\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/Stossycord/Stossycord/refs/heads/main/Stossycord/Assets.xcassets/AppIcon.appiconset/Stossycord.png",
       "size": 96468992,
-      "subtitle": "Another cool Discord Client!",
+      "subtitle": "Another cool Discord Client!"
     },
     {
       "name": "Minecraft",
@@ -244,7 +244,7 @@
       "localizedDescription": "Minecraft which is normally $7.99, free!\n\nStatus: ✅🌟",
       "iconURL": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
       "size": 96468992,
-      "subtitle": "Minecraft ($7.99) for free!",
+      "subtitle": "Minecraft ($7.99) for free!"
     },
      {
       "name": "Flappy Bird",
@@ -256,7 +256,7 @@
       "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🌟",
       "iconURL": "https://raw.githubusercontent.com/freehelpdesk/flappybird/main/github/icon-rounded.png",
       "size": 96468992,
-      "subtitle": "A near exact clone of the original Flappy Bird!",
+      "subtitle": "A near exact clone of the original Flappy Bird!"
     },
     {
       "name": "BH Twitter", 
@@ -364,7 +364,7 @@
     "localizedDescription": "Access to ChatGPT Premium models through a 3rd party app. Premium unlocked!\n\nStatus: ✅🌟",
     "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/AIChatSmithPremium-7.0.0.png",
     "size": 74448896,    
-    "subtitle": "Access to ChatGPT Premium models!",
+    "subtitle": "Access to ChatGPT Premium models!"
      },
     {
       "name": "Genie++",
@@ -375,7 +375,7 @@
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/GeniePro_7.1.2.png",
       "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/GeniePro_7.1.2.ipa",
       "size": 59768832,
-      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟",
+      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟"
     },
     {
     "name": "LiveContainer",
@@ -386,7 +386,7 @@
     "downloadURL": "https://github.com/qbap/ONEJailbreak/raw/refs/heads/main/com.kdt.livecontainer_3.0.0.ipa",
     "localizedDescription": "ONLY FOR SIDESTORE AND ALTSTORE!\n\nAllows you to bypass Apple's 3 app limit using this sideloading method by running unsigned apps.\n\nStatus: ✅🔥",
     "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/LiveContainer_2.0.png",
-    "size": 59768832,
+    "size": 59768832
     },
     {
     "name": "Snapchat Iota",
@@ -397,7 +397,7 @@
     "downloadURL": "https://cdn.discordapp.com/attachments/1203780087883890778/1279457149008744540/iota6.0-13.1.0.ipa?ex=67054a53&is=6703f8d3&hm=5de15a281a716ba6df7a2d15c90d63a309132e57854a87d02e846048f009d6c0&",
     "localizedDescription": "🚨 SNAPCHAT TWEAKS ARE CURRENTLY DETECTED AND WILL GET YOU BANNED/LOCKED 🚨\n\nA paid tweak for Snapchat. Liscenses are $12 for lifetime, or $5 per month. Very much worth it, and a much more trustworthy developer than Wicked.\n\nStatus: ✅🔥🌟",
     "iconURL": "https://pbs.twimg.com/media/GIL9XZPbgAAWIbf.png",
-    "size": 59768832,
+    "size": 59768832
     },
     {
     "name": "Provenance Emu",
@@ -408,7 +408,7 @@
     "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
     "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will crash.\n\nStatus: ✅",
     "iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
-    "size": 59768832,
+    "size": 59768832
     },
     {
     "name": "Feather",
@@ -433,7 +433,7 @@
     "date": "2024-10-07",
     "size": 12375230,
     "versionDate": "2024-10-09",
-    "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa",
+    "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
     },
     {
     "name": "Cash App",
@@ -446,7 +446,7 @@
     "date": "2024-10-10",
     "size": 12375230,
     "versionDate": "2024-10-10",
-    "downloadURL": "https://cdn.discordapp.com/attachments/1293025772918800465/1294080439274967132/Cash_App_4.5_1728603095.ipa?ex=6709b5d3&is=67086453&hm=ab03b2c83b255dc5e2c07a3801647a517f161202c4e76d0f7a373b2bb0485210&",
+    "downloadURL": "https://cdn.discordapp.com/attachments/1293025772918800465/1294080439274967132/Cash_App_4.5_1728603095.ipa?ex=6709b5d3&is=67086453&hm=ab03b2c83b255dc5e2c07a3801647a517f161202c4e76d0f7a373b2bb0485210&"
     },
     {
       "name": "BSD Brawl Stars", 
@@ -458,7 +458,7 @@
       "downloadURL": "https://bsdbrawl.com/bsd_brawl_v57.325_(26).ipa", 
       "developerName": "Omega", 
       "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fc/8a/31fc8a6b-c612-8c8e-9953-cab056ca1ee2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fc/8a/31fc8a6b-c612-8c8e-9953-cab056ca1ee2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg"
     },
     {
         "name": "eSign No Logs",
@@ -470,19 +470,19 @@
         "size": 7245924,
         "version": "5.0.2",
         "versionDate": "2024-10-12",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa"
     },
     {
         "name": "Deltarune",
         "bundleIdentifier": "xyz.omega.deltarune",
         "subtitle": "Deltarune - iOS Port",
-        "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n\nStatus: ✅",
+        "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.",
         "developerName": "Omega",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/deltarune.png?raw=true",
         "size": 70279168,
         "version": "1.0.0",
         "versionDate": "2024-10-12",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/deltarune.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/deltarune.ipa"
       },
       {
         "name": "Undertale",
@@ -494,19 +494,19 @@
         "size": 140505088,
         "version": "1.0.8",
         "versionDate": "2024-10-12",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/UNDERTALE.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/UNDERTALE.ipa"
       },
       {
         "name": "Sonic Mania",
         "bundleIdentifier": "xyz.omega.sonicmania",
-        "subtitle": "Sonic Mania - iOS Port",
+        "subtitle": "Sonic Mania - IOS Port",
         "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\n\nStatus: ✅",
         "developerName": "Omega",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/sonicmania.png?raw=true",
         "size": 2805760,
         "version": "RSDK5",
         "versionDate": "2024-10-12",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/SonicMania.ipa",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/SonicMania.ipa"
     },
     {
         "name": "Valorant",
@@ -518,7 +518,7 @@
         "size": 2805760,
         "version": "1.0",
         "versionDate": "2024-10-12",
-        "downloadURL": "https://cdncelestial.b-cdn.net/Valorant.ipa",
-    },
+        "downloadURL": "https://cdncelestial.b-cdn.net/Valorant.ipa"
+    }
   ]
 }

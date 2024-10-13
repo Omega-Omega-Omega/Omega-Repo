@@ -473,7 +473,7 @@
         "versionDate": "2024-10-12",
         "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa",
     },
-{
+    {
         "name": "Deltarune",
         "bundleIdentifier": "xyz.omega.deltarune",
         "subtitle": "Deltarune - iOS Port",

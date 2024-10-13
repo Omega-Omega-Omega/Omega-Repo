@@ -476,7 +476,7 @@
         "name": "Deltarune",
         "bundleIdentifier": "xyz.omega.deltarune",
         "subtitle": "Deltarune - iOS Port",
-        "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.",
+        "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n\nStatus: ✅",
         "developerName": "Omega",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/deltarune.png?raw=true",
         "size": 70279168,
@@ -499,7 +499,7 @@
       {
         "name": "Sonic Mania",
         "bundleIdentifier": "xyz.omega.sonicmania",
-        "subtitle": "Sonic Mania - IOS Port",
+        "subtitle": "Sonic Mania - iOS Port",
         "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\n\nStatus: ✅",
         "developerName": "Omega",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/sonicmania.png?raw=true",

@@ -460,5 +460,18 @@
       "localizedDescription": "Brawl Stars Hacks!\n\nStatus: ✅🔥", 
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/fc/8a/31fc8a6b-c612-8c8e-9953-cab056ca1ee2/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
     },
+    {
+        "name": "eSign No Logs",
+        "bundleIdentifier": "xyz.omega.esignnologs",
+        "subtitle": "eSign With No Logs",
+        "localizedDescription": "Use with Omega Certificates to sign unlimited apps for 1 year, on device, with no computer.\n\nStatus: ✅🔥",
+        "developerName": "Omega",
+        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/esign.png?raw=true",
+        "category": "utilities",
+        "size": 7245924,
+        "version": "5.0.2",
+        "versionDate": "2024-10-12",
+        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa",
+    },
   ]
 }

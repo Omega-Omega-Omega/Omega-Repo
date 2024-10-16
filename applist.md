@@ -519,6 +519,17 @@
         "version": "1.0",
         "versionDate": "2024-10-12",
         "downloadURL": "https://cdncelestial.b-cdn.net/Valorant.ipa"
+    },
+{
+      "name": "BitLife",
+      "bundleIdentifier": "com.wtfapps.apollo16",
+      "developerName": "kamohacks",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3a/bd/9a3abd03-9d22-f514-37e7-a1fad298ad46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "version": "3.15.9",
+      "size": 209020146,
+      "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
+      "localizedDescription": "BitLife - KamoHacks - Life Simulator \n✅Infinite Cash \n✅PREMIUM Unlocked",
+      "versionDate": "2024-10-05"
     }
   ]
 }

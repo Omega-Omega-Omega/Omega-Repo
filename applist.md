@@ -523,13 +523,24 @@
 {
       "name": "BitLife",
       "bundleIdentifier": "com.wtfapps.apollo16",
-      "developerName": "kamohacks",
+      "developerName": "Omega",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3a/bd/9a3abd03-9d22-f514-37e7-a1fad298ad46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "version": "3.15.9",
       "size": 209020146,
       "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
-      "localizedDescription": "BitLife - KamoHacks - Life Simulator \n✅Infinite Cash \n✅PREMIUM Unlocked",
-      "versionDate": "2024-10-05"
+      "localizedDescription": "BitLife - Cracked",
+      "versionDate": "2024-10-15"
+    },
+    {
+      "name": "Geometry Dash - iCreate Pro",
+      "bundleIdentifier": "xyz.omega.icreatepro",
+      "developerName": "Omega",
+      "iconURL": "https://icreate.pro/assets/images/app-circle.png",
+      "version": "6.6.0",
+      "size": 209020146,
+      "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
+      "localizedDescription": "Tweaked Geometry Dash",
+      "versionDate": "2024-10-15"
     }
   ]
 }
